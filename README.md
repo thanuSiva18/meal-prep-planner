@@ -1,6 +1,6 @@
-# 🍲 Tamil Nadu Style Meal Prep Planner
+# 🍲 Indian Style Meal Prep Planner
 
-An interactive **meal planning tool** focused on **Tamil Nadu cuisine**, built with **Python, Gradio, and Pandas**.  
+An interactive **meal planning tool** focused on **Indian cuisine**, built with **Python, Gradio, and Pandas**.  
 The app generates personalized diet plans with randomized Tamil-style meals, providing both variety and balanced nutrition.  
 
 ---
@@ -30,3 +30,4 @@ git clone https://github.com/thanuSiva18/meal-prep-ai.git
 cd meal-prep-ai
 pip install -r requirements.txt
 python app.py
+
