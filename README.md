@@ -1,34 +1,32 @@
----
-title: Meal Prep Planner
-emoji: 🍲
-colorFrom: green
-colorTo: blue
-sdk: gradio
-sdk_version: "4.36.1"
-app_file: app.py
-pinned: false
----
-
 # 🍲 Tamil Nadu Style Meal Prep Planner
 
-This is an interactive **Indian-style meal planning tool** focused on Tamil Nadu cuisine.  
-Built using **Gradio**, **Pandas**, and **NumPy**, it helps users generate simple meal plans with a balance of nutrition and traditional taste.  
+An interactive **meal planning tool** focused on **Tamil Nadu cuisine**, built with **Python, Gradio, and Pandas**.  
+The app generates personalized diet plans with randomized Tamil-style meals, providing both variety and balanced nutrition.  
+
+---
 
 ## ✨ Features
-- ✅ Generate Tamil Nadu style meal combinations  
-- ✅ Randomized meal options for variety  
-- ✅ Easy-to-use Gradio web interface  
-- ✅ Lightweight & fast (no heavy dependencies)  
+- ✅ Generate Tamil Nadu–style meal combinations  
+- ✅ Randomized meal suggestions for variety  
+- ✅ Interactive **Gradio** web interface  
+- ✅ Lightweight & fast (minimal dependencies)  
+- ✅ Deployed on Hugging Face Spaces  
+
+---
 
 ## 🚀 Tech Stack
-- **Python**  
+- **Python 3.10**  
 - **Gradio** (UI framework)  
-- **Pandas, NumPy** (data handling)  
+- **Pandas, NumPy** (data handling & logic)  
+
+---
 
 ## 📦 Installation (Run Locally)
+
 Clone this repo and install dependencies:
+
 ```bash
-git clone https://huggingface.co/spaces/thanusiva18/meal-prep-planner
-cd meal-prep-planner
+git clone https://github.com/thanuSiva18/meal-prep-ai.git
+cd meal-prep-ai
 pip install -r requirements.txt
 python app.py
