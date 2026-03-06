@@ -1,0 +1,501 @@
+meal_id,meal_type,name,calories,protein,carbs,fat,diet,cuisine,source
+1,Breakfast,Masala Omelette,233,14,6,17,Non-Vegetarian,Maharashtrian,BBC Good Food
+2,Snack,Oatmeal Cookies (Low Sugar),314,10,37,10,Vegetarian,Andhra,Archana's Kitchen
+3,Dinner,Matar Paneer,228,10,19,11,Vegetarian,South Indian,Veg Recipes of India
+4,Dinner,Peanut Curry,237,9,13,15,Vegan,North Indian,Veg Recipes of India
+5,Dinner,Chicken Tikka,342,16,19,15,Non-Vegetarian,Tamil Nadu,Neha Mathur
+6,Snack,Carrot and Cucumber Sticks,179,3,35,5,Vegetarian,South Indian,Neha Mathur
+7,Dinner,Keema (Minced Meat) Pav,363,23,34,12,Non-Vegetarian,Kashmiri,Tarla Dalal
+8,Lunch,Pumpkin Curry,190,8,24,9,Vegan,Hyderabadi,Allrecipes
+9,Snack,Roasted Chickpeas,266,17,36,6,Vegan,Maharashtrian,Swasthis Recipes
+10,Dinner,Tofu Palak,323,12,19,14,Vegetarian,Rajasthani,Veg Recipes of India
+11,Lunch,Saag Paneer,161,13,14,6,Vegetarian,Gujarati,Allrecipes
+12,Breakfast,Vegetable Upma,261,11,37,8,Vegetarian,South Indian,Manjula's Kitchen
+13,Dinner,Paneer Bhurji,205,13,17,7,Vegetarian,Kashmiri,Sanjeev Kapoor
+14,Dinner,Chicken Shorba,168,14,8,6,Non-Vegetarian,Hyderabadi,Manjula's Kitchen
+15,Lunch,Chana Masala,293,16,34,8,Vegetarian,North Indian,Tarla Dalal
+16,Lunch,Vegetable Biryani,232,10,39,4,Vegetarian,Bengali,Archana's Kitchen
+17,Lunch,Chicken Stew (Kerala),224,25,7,8,Non-Vegetarian,Kerala,Archana's Kitchen
+18,Dinner,Vegetable Coconut Curry,245,9,18,12,Vegan,Kashmiri,Manjula's Kitchen
+19,Snack,Millet Porridge (Gluten-Free),265,7,55,2,Vegetarian,South Indian,Allrecipes
+20,Lunch,Dal Tadka,251,15,29,8,Vegetarian,Bengali,Manjula's Kitchen
+21,Dinner,Paneer Tikka,206,15,8,12,Vegetarian,Punjabi,HealthifyMe
+22,Lunch,Chicken Curry,299,19,17,15,Non-Vegetarian,Kashmiri,NDTV Food
+23,Snack,Masala Corn,274,10,50,4,Vegetarian,North Indian,Neha Mathur
+24,Dinner,Green Gram Curry,324,9,45,12,Vegetarian,Gujarati,Veg Recipes of India
+25,Snack,Vegetable Sandwich (Whole Grain),244,8,45,3,Vegetarian,Andhra,Veg Recipes of India
+26,Dinner,Grilled Fish (Masala),216,24,12,6,Non-Vegetarian,Gujarati,Allrecipes
+27,Snack,Sprouts Chaat,358,23,45,4,Vegan,North Indian,Neha Mathur
+28,Breakfast,Muesli with Yogurt,305,11,57,4,Vegetarian,South Indian,Manjula's Kitchen
+29,Snack,Nuts and Dried Fruit Mix,335,9,29,22,Vegan,Andhra,Rak's Kitchen
+30,Lunch,Paneer Masala (Lababdar),193,13,12,9,Vegetarian,Kashmiri,NDTV Food
+31,Lunch,Coconut Dal,167,13,12,5,Vegan,Hyderabadi,Veg Recipes of India
+32,Dinner,Chicken Shashlik,214,19,13,7,Non-Vegetarian,Tamil Nadu,BBC Good Food
+33,Snack,Roasted Sweet Potato Wedges,251,3,57,1,Vegan,Kashmiri,Veg Recipes of India
+34,Dinner,Spinach Soup,261,11,20,14,Vegan,North Indian,Allrecipes
+35,Lunch,Chicken Tikka Masala,345,23,23,17,Non-Vegetarian,Hyderabadi,Allrecipes
+36,Snack,Fruity Yogurt Parfait,362,15,55,6,Vegetarian,Kashmiri,NDTV Food
+37,Dinner,Masoor Dal Tadka,182,13,17,4,Vegetarian,Hyderabadi,Veg Recipes of India
+38,Lunch,Chicken Saagwala,368,26,9,19,Non-Vegetarian,Tamil Nadu,Neha Mathur
+39,Snack,Cucumber Slices with Hummus,286,8,16,21,Vegan,South Indian,Swasthis Recipes
+40,Lunch,Tofu Tikka Masala (Dairy-Free),371,20,32,14,Vegan,North Indian,Allrecipes
+41,Snack,Vegetable Cutlet (Baked),168,12,18,5,Vegetarian,Marathi,Manjula's Kitchen
+42,Dinner,Sambar (Lentil Stew),301,12,39,15,Vegetarian,Kashmiri,Veg Recipes of India
+43,Lunch,Bajra Roti,245,4,46,3,Vegetarian,South Indian,HealthifyMe
+44,Snack,Roasted Makhana (Foxnuts),309,17,55,3,Vegan,Punjabi,HealthifyMe
+45,Dinner,Kadai Chicken,226,10,14,11,Non-Vegetarian,North Indian,Manjula's Kitchen
+46,Lunch,Vegetable Pulao,225,5,40,5,Vegetarian,Kashmiri,NDTV Food
+47,Dinner,Grilled Salmon Tikka,245,17,7,12,Non-Vegetarian,Andhra,Sanjeev Kapoor
+48,Snack,Coconut Water,291,4,69,3,Vegan,Kerala,NDTV Food
+49,Dinner,Grilled Prawns,209,21,13,6,Non-Vegetarian,South Indian,Archana's Kitchen
+50,Dinner,Lemon Pepper Fish,184,20,0,8,Non-Vegetarian,Punjabi,Neha Mathur
+51,Lunch,Lauki (Bottle Gourd) Curry,220,13,27,4,Vegetarian,Kashmiri,Manjula's Kitchen
+52,Snack,Idli (Steamed Rice Cakes),375,12,18,13,Vegetarian,South Indian,Veg Recipes of India
+53,Dinner,Dal Palak,184,12,21,4,Vegetarian,Maharashtrian,NDTV Food
+54,Snack,Vegetable Stew (No Dairy),301,7,38,14,Vegan,Kerala,Sanjeev Kapoor
+55,Lunch,Mung Bean Curry,180,5,13,12,Vegetarian,South Indian,Allrecipes
+56,Snack,Vegetable Salsa (Salsa Verdura Indian Style),247,4,37,6,Vegetarian,South Indian,BBC Good Food
+57,Lunch,Bhindi Masala,303,12,29,12,Vegetarian,Punjabi,Veg Recipes of India
+58,Snack,Masala Omelette Wrap,326,18,35,13,Non-Vegetarian,Kashmiri,Manjula's Kitchen
+59,Snack,Oats Upma with Nuts,189,8,29,3,Vegetarian,Gujarati,Sanjeev Kapoor
+60,Snack,Carrot Laddoo (No Added Sugar),245,5,40,8,Vegetarian,Kashmiri,Archana's Kitchen
+61,Lunch,Kadai Paneer,201,10,13,13,Vegetarian,Kashmiri,NDTV Food
+62,Breakfast,Vegetable Poha,309,14,66,4,Vegetarian,South Indian,Archana's Kitchen
+63,Lunch,Paneer Bhurji,340,20,20,16,Vegetarian,Punjabi,Veg Recipes of India
+64,Breakfast,Quinoa Idli,212,4,45,3,Vegetarian,South Indian,Manjula's Kitchen
+65,Snack,Spinach Fritters (Baked),267,8,51,3,Vegan,South Indian,NDTV Food
+66,Dinner,Chicken Stew (Kerala),189,6,5,12,Non-Vegetarian,South Indian,Allrecipes
+67,Dinner,Rasam,236,5,50,2,Vegan,Kerala,Manjula's Kitchen
+68,Breakfast,Besan Chilla (Gram Pancake),277,17,47,5,Vegetarian,Hyderabadi,Manjula's Kitchen
+69,Snack,Sprout Chaat,284,14,41,7,Vegan,North Indian,Veg Recipes of India
+70,Dinner,Vegetable Khichdi,243,4,46,4,Vegetarian,North Indian,Allrecipes
+71,Snack,Khaman Dhokla,198,6,36,5,Vegetarian,Gujarati,NDTV Food
+72,Lunch,Vegetable Biryani,304,20,40,8,Vegetarian,South Indian,Manjula's Kitchen
+73,Lunch,Paneer Butter Masala,323,11,16,22,Vegetarian,Punjabi,NDTV Food
+74,Snack,Fruit Salad with Mint,268,5,68,1,Vegan,Kashmiri,Veg Recipes of India
+75,Dinner,Chole (Chickpea Curry),210,16,28,3,Vegetarian,Kashmiri,Veg Recipes of India
+76,Lunch,Saag Chicken,254,21,7,8,Non-Vegetarian,Hyderabadi,Manjula's Kitchen
+77,Snack,Ridge Gourd Curry,273,2,42,5,Vegan,Kashmiri,Allrecipes
+78,Lunch,Rasam,309,12,40,12,Vegetarian,Gujarati,Allrecipes
+79,Snack,Roasted Peanut Chikki,280,12,20,14,Vegan,Rajasthani,Swasthis Recipes
+80,Breakfast,Dalia (Broken Wheat Porridge),246,12,50,5,Vegetarian,Gujarati,Manjula's Kitchen
+81,Snack,Fruit Smoothie (Yogurt),215,6,45,2,Vegetarian,Andhra,Allrecipes
+82,Dinner,Vegetable Stew (Kerala Style),339,14,45,8,Vegetarian,South Indian,Manjula's Kitchen
+83,Snack,Nuts and Seeds Mix,361,8,23,28,Vegan,Andhra,Veg Recipes of India
+84,Snack,Oats Upma with Nuts,212,6,43,4,Vegetarian,Punjabi,NDTV Food
+85,Dinner,Mixed Vegetable Curry,166,14,16,4,Vegetarian,Hyderabadi,Manjula's Kitchen
+86,Lunch,Tandoori Chicken,210,21,2,6,Non-Vegetarian,North Indian,Tarla Dalal
+87,Snack,Dhokla,356,16,60,6,Vegetarian,Gujarati,Veg Recipes of India
+88,Snack,Masala Corn,192,9,20,8,Vegetarian,Marathi,Manjula's Kitchen
+89,Breakfast,Ragi Porridge (Finger Millet),243,12,35,5,Vegetarian,South Indian,Manjula's Kitchen
+90,Dinner,Kadhi (No Pakoras),174,7,21,4,Vegetarian,Rajasthani,Sanjeev Kapoor
+91,Snack,Raita (Cucumber),338,17,42,12,Vegetarian,Punjabi,Allrecipes
+92,Lunch,Chana Masala,267,17,43,5,Vegetarian,Hyderabadi,Sanjeev Kapoor
+93,Lunch,Paneer Makhani,317,14,21,18,Vegetarian,Punjabi,Allrecipes
+94,Snack,Omelette Roll,207,14,5,14,Non-Vegetarian,North Indian,Sanjeev Kapoor
+95,Dinner,Coconut Curry Lentils,158,15,16,4,Vegetarian,South Indian,Manjula's Kitchen
+96,Snack,Fruit Smoothie (Almond Milk),267,4,57,1,Vegan,Kashmiri,Allrecipes
+97,Lunch,Sambar (Lentil Stew),170,10,31,5,Vegetarian,Kashmiri,NDTV Food
+98,Dinner,Chicken Curry,354,21,14,17,Non-Vegetarian,Hyderabadi,Tarla Dalal
+99,Snack,Vegetable Salad,358,15,46,12,Vegan,Marathi,Allrecipes
+100,Lunch,Carrot Lentil Soup,272,11,40,6,Vegetarian,Bengali,Manjula's Kitchen
+101,Dinner,Palak Paneer,242,9,17,11,Vegetarian,Hyderabadi,Manjula's Kitchen
+102,Snack,Paneer Paratha,288,8,44,7,Vegetarian,Punjabi,Sanjeev Kapoor
+103,Snack,Raita (Mint),322,14,39,13,Vegetarian,South Indian,Archana's Kitchen
+104,Lunch,Grilled Fish Curry,254,16,21,8,Non-Vegetarian,Hyderabadi,Allrecipes
+105,Snack,Tangy Tomato Soup,295,17,45,10,Vegan,South Indian,Manjula's Kitchen
+106,Lunch,Cabbage Curry,186,15,11,7,Vegetarian,Bengali,Sanjeev Kapoor
+107,Dinner,Gajar Matar Sabzi,278,17,22,11,Vegetarian,Kashmiri,HealthifyMe
+108,Snack,Cucumber Sticks with Hummus,168,5,27,7,Vegan,North Indian,Manjula's Kitchen
+109,Snack,Masala Oats,232,5,43,4,Vegetarian,South Indian,Manjula's Kitchen
+110,Dinner,Chicken Tikka Masala,239,14,16,12,Non-Vegetarian,Maharashtrian,NDTV Food
+111,Snack,Idli (Steamed Rice Cakes),268,13,40,4,Vegetarian,South Indian,NDTV Food
+112,Lunch,Rice and Dal (Khichdi),163,12,25,4,Vegetarian,South Indian,Manjula's Kitchen
+113,Snack,Vegetable Raisin Upma,323,10,62,2,Vegetarian,Hyderabadi,Sanjeev Kapoor
+114,Dinner,Vegetable Soup,339,16,39,14,Vegetarian,Kashmiri,Allrecipes
+115,Lunch,Lentil Soup (Masoor Dal),249,16,39,5,Vegetarian,West Indian,Allrecipes
+116,Dinner,Sauted Chicken,169,21,3,2,Non-Vegetarian,Punjabi,Allrecipes
+117,Snack,Besan Cookies,190,3,22,9,Vegetarian,North Indian,Allrecipes
+118,Lunch,Butter Chicken,313,21,29,12,Non-Vegetarian,Hyderabadi,Manjula's Kitchen
+119,Snack,Carrot Laddoo (No Added Sugar),246,6,40,9,Vegetarian,Kashmiri,Sanjeev Kapoor
+120,Dinner,Mixed Vegetable Curry,258,7,32,11,Vegetarian,Gujarati,Veg Recipes of India
+121,Dinner,Vegetable Chili (Indian Spices),339,19,45,8,Vegan,Kashmiri,Sanjeev Kapoor
+122,Lunch,Dal Makhani,153,12,12,4,Vegetarian,Hyderabadi,Tarla Dalal
+123,Snack,Roasted Sweet Potato Wedges,157,3,35,1,Vegan,Kashmiri,Archana's Kitchen
+124,Dinner,Chicken Biryani,329,27,15,10,Non-Vegetarian,Hyderabadi,Manjula's Kitchen
+125,Dinner,Bhindi Masala,239,8,34,7,Vegetarian,Marathi,Manjula's Kitchen
+126,Snack,Dhokla,352,21,61,9,Vegetarian,Gujarati,Manjula's Kitchen
+127,Dinner,Moong Dal Khichdi,253,17,29,6,Vegetarian,Gujarati,Manjula's Kitchen
+128,Lunch,Vegetable Pulao,217,13,33,5,Vegetarian,Maharashtrian,Manjula's Kitchen
+129,Snack,Roasted Chickpeas,208,14,27,3,Vegan,North Indian,Manjula's Kitchen
+130,Lunch,Prawn Curry (Coconut),231,20,14,2,Non-Vegetarian,Maharashtrian,Archana's Kitchen
+131,Lunch,Vegetable Pulao,318,6,53,5,Vegetarian,Gujarati,Manjula's Kitchen
+132,Snack,Ridge Gourd Curry,339,21,46,7,Vegan,Hyderabadi,Sanjeev Kapoor
+133,Snack,Masala Corn,271,12,40,8,Vegetarian,Kerala,Allrecipes
+134,Snack,Corn Curry,332,12,54,3,Vegetarian,Marathi,Allrecipes
+135,Lunch,Dal Shorba,336,17,37,6,Vegetarian,Gujarati,Manjula's Kitchen
+136,Snack,Paneer Paratha,262,6,44,6,Vegetarian,Punjabi,Manjula's Kitchen
+137,Lunch,Sambar (Lentil Stew),258,12,32,6,Vegetarian,West Indian,Manjula's Kitchen
+138,Dinner,Chicken Korma,211,20,3,11,Non-Vegetarian,North Indian,Manjula's Kitchen
+139,Dinner,Sambar (Lentil Stew),189,8,33,5,Vegetarian,Kashmiri,Manjula's Kitchen
+140,Lunch,Vegetable Stew (Kerala Style),249,7,52,5,Vegetarian,North Indian,Manjula's Kitchen
+141,Lunch,Quinoa Biryani (Veg),200,3,36,5,Vegetarian,West Indian,Allrecipes
+142,Snack,Carrot Laddoo (No Added Sugar),207,4,53,4,Vegetarian,Marathi,Manjula's Kitchen
+143,Lunch,Rice and Dal (Khichdi),274,19,50,9,Vegetarian,Kashmiri,Manjula's Kitchen
+144,Breakfast,Aloo Paratha,228,5,25,9,Vegetarian,Kashmiri,Manjula's Kitchen
+145,Dinner,Chicken Lollipop (Baked),318,15,22,12,Non-Vegetarian,Punjabi,Allrecipes
+146,Snack,Carrot Laddoo (No Added Sugar),289,4,74,6,Vegetarian,Marathi,Manjula's Kitchen
+147,Dinner,Veg Hakka Noodles,260,8,52,3,Vegetarian,Hyderabadi,Manjula's Kitchen
+148,Snack,Cucumber Slices with Hummus,176,4,15,11,Vegan,South Indian,Manjula's Kitchen
+149,Snack,Vegetable Salad,317,9,50,6,Vegetarian,Rajasthani,Manjula's Kitchen
+150,Snack,Fruit Salad with Mint,352,5,81,2,Vegan,North Indian,Allrecipes
+151,Dinner,Dal Makhani,267,20,37,8,Vegetarian,Hyderabadi,Veg Recipes of India
+152,Lunch,Quinoa Biryani (Veg),201,8,38,3,Vegetarian,West Indian,Manjula's Kitchen
+153,Dinner,Paneer Makhani,165,10,8,9,Vegetarian,Maharashtrian,Manjula's Kitchen
+154,Snack,Paneer Paratha,275,6,47,7,Vegetarian,Marathi,Manjula's Kitchen
+155,Snack,Fruit Smoothie (Yogurt),305,11,59,5,Vegetarian,South Indian,Manjula's Kitchen
+156,Dinner,Palak Paneer,289,20,14,15,Vegetarian,Kashmiri,Sanjeev Kapoor
+157,Lunch,Lauki (Bottle Gourd) Curry,214,13,29,8,Vegetarian,Gujarati,Manjula's Kitchen
+158,Snack,Idli (Steamed Rice Cakes),235,7,39,4,Vegetarian,South Indian,Manjula's Kitchen
+159,Lunch,Sambar (Lentil Stew),231,11,38,14,Vegetarian,Tamil Nadu,Manjula's Kitchen
+160,Lunch,Grilled Chicken,202,11,5,16,Non-Vegetarian,Hyderabadi,Allrecipes
+161,Dinner,Tofu Tikka Masala (Dairy-Free),291,19,21,12,Vegan,Punjabi,Manjula's Kitchen
+162,Dinner,Bhindi Masala,264,10,18,14,Vegetarian,Kashmiri,Veg Recipes of India
+163,Snack,Masala Omelette,275,14,13,17,Vegetarian,Gu.. Vegetarian	Punjabi,NDTV Food
+164,Dinner,Grilled Chicken Tikka,175,17,1,9,Non-Vegetarian,Hyderabadi,NDTV Food
+165,Snack,Baked Samosa (Vegetable),177,6,21,7,Vegetarian,Marathi,HealthifyMe
+166,Dinner,Chicken Korma,240,16,11,15,Non-Vegetarian,Kashmiri,Veg Recipes of India
+167,Lunch,Lentil Soup (Masoor Dal),169,13,5,8,Vegetarian,Punjabi,Manjula's Kitchen
+168,Snack,Vegetable Soup,312,11,39,10,Vegetarian,South Indian,Manjula's Kitchen
+169,Breakfast,Aloo Paratha,241,7,30,9,Vegetarian,Marathi,Manjula's Kitchen
+170,Lunch,Matar Paneer,282,19,42,11,Vegetarian,Kashmiri,Veg Recipes of India
+171,Snack,Cucumber Sticks with Hummus,261,11,19,15,Vegan,South Indian,Manjula's Kitchen
+172,Dinner,Lemon Rice,261,4,48,9,Vegetarian,Kashmiri,Sanjeev Kapoor
+173,Snack,Mixed Nuts & Seeds,271,5,14,23,Vegan,Andhra,Veg Recipes of India
+174,Snack,Sprouts Chaat,175,16,6,9,Vegetarian,Andhra,Manjula's Kitchen
+175,Snack,Papaya Salad (Indian style),261,3,52,10,Vegan,South Indian,Manjula's Kitchen
+176,Lunch,Lentil Soup (Masoor Dal),229,7,38,10,Vegetarian,Bengali,Manjula's Kitchen
+177,Snack,Fruit Smoothie (Yogurt),235,9,49,5,Vegetarian,South Indian,Manjula's Kitchen
+178,Breakfast,Dalia (Broken Wheat Porridge),236,15,34,4,Vegetarian,Hyderabadi,Manjula's Kitchen
+179,Snack,Masala Corn,282,14,37,9,Vegetarian,Kashmiri,Allrecipes
+180,Snack,Sprouts Chaat,204,4,39,6,Vegetarian,Kashmiri,Manjula's Kitchen
+181,Breakfast,Poha (Flattened Rice),290,20,59,1,Vegetarian,South Indian,Allrecipes
+182,Snack,Oatmeal Cookies (Low Sugar),283,15,34,7,Vegetarian,Andhra,Manjula's Kitchen
+183,Snack,Oatmeal Cookies (Low Sugar),292,14,40,3,Vegetarian,Punjabi,Manjula's Kitchen
+184,Snack,Vegetable Salad,353,10,43,12,Vegetarian,North Indian,Sanjeev Kapoor
+185,Snack,Baked Samosa (Vegetable),286,9,54,6,Vegetarian,Kashmiri,Manjula's Kitchen
+186,Breakfast,Poha (Flattened Rice),282,10,53,7,Vegetarian,Kashmiri,Manjula's Kitchen
+187,Snack,Carrot Laddoo (No Added Sugar),271,6,60,2,Vegetarian,Bengali,Manjula's Kitchen
+188,Lunch,Vegetable Pulao,193,10,31,4,Vegetarian,Kashmiri,Sanjeev Kapoor
+189,Lunch,Bhindi Masala,258,11,33,10,Vegetarian,West Indian,Allrecipes
+190,Snack,Besan Chilla (Gram Pancake),269,16,46,4,Vegetarian,Marathi,Manjula's Kitchen
+191,Breakfast,Vegetable Oats Upma,225,12,46,3,Vegetarian,South Indian,Manjula's Kitchen
+192,Snack,Avocado Smoothie,246,5,46,2,Vegetarian,South Indian,Allrecipes
+193,Lunch,Chicken Shashlik,264,15,42,8,Non-Vegetarian,Kashmiri,Allrecipes
+194,Snack,Corn Chaat,349,7,56,15,Vegan,West Indian,Manjula's Kitchen
+195,Snack,Masala Corn,245,10,41,4,Vegetarian,West Indian,Sanjeev Kapoor
+196,Dinner,Dal Shorba,256,11,38,11,Vegetarian,South Indian,Manjula's Kitchen
+197,Dinner,Dal Tadka,261,12,38,10,Vegetarian,Kashmiri,Sanjeev Kapoor
+198,Snack,Dhokla,333,16,49,6,Vegetarian,Gujarati,NDTV Food
+199,Snack,Vegetable Soup,267,4,50,5,Vegetarian,Andhra,Manjula's Kitchen
+200,Dinner,Grilled Prawns,286,15,11,20,Non-Vegetarian,Punjabi,Archana's Kitchen
+201,Snack,Dhokla,243,14,47,1,Vegetarian,Kashmiri,Veg Recipes of India
+202,Snack,Roasted Chickpeas,319,12,47,4,Vegan,Kashmiri,Manjula's Kitchen
+203,Snack,Beetroot Soup,183,13,10,10,Vegetarian,Kashmiri,Manjula's Kitchen
+204,Snack,Dhokla,264,7,49,3,Vegetarian,Marathi,Allrecipes
+205,Snack,Cucumber Sticks with Hummus,212,9,21,7,Vegan,West Indian,Allrecipes
+206,Breakfast,Sweet Potato Pancake,236,17,14,14,Vegetarian,Marathi,Sanjeev Kapoor
+207,Dinner,Lemon Coriander Soup,185,11,6,12,Non-Vegetarian,West Indian,Archana's Kitchen
+208,Snack,Mixed Nuts & Seeds,284,9,19,16,Vegan,West Indian,Manjula's Kitchen
+209,Snack,Vegetable Sandwich (Multigrain),300,19,60,1,Vegetarian,South Indian,Manjula's Kitchen
+210,Snack,Masala Omelette,269,13,20,15,Vegetarian,Marathi,Manjula's Kitchen
+211,Snack,Roasted Makhana (Foxnuts),299,17,59,2,Vegan,Kashmiri,Manjula's Kitchen
+212,Dinner,Chicken Soup (Herbed),133,12,4,6,Non-Vegetarian,Tamil Nadu,Manjula's Kitchen
+213,Snack,Vegetable Soup,310,8,42,14,Vegetarian,Hyderabadi,Manjula's Kitchen
+214,Snack,Tomato Soup,298,10,47,11,Vegan,West Indian,Manjula's Kitchen
+215,Lunch,Chicken Saagwala,278,22,19,4,Non-Vegetarian,Punjabi,Manjula's Kitchen
+216,Snack,Cucumber Sticks with Hummus,341,12,45,13,Vegan,Marathi,Manjula's Kitchen
+217,Snack,Mixed Nuts & Seeds,311,11,24,14,Vegan,West Indian,Manjula's Kitchen
+218,Snack,Oatmeal Cookies (Low Sugar),280,14,41,6,Vegetarian,South Indian,Manjula's Kitchen
+219,Dinner,Chicken Korma,219,16,8,8,Non-Vegetarian,North Indian,Allrecipes
+220,Snack,Masala Corn,353,8,55,6,Vegetarian,Kashmiri,Manjula's Kitchen
+221,Dinner,Moong Sprout Curry,348,13,48,5,Vegan,Kashmiri,Manjula's Kitchen
+222,Snack,Besan Chilla (Gram Pancake),272,18,45,4,Vegetarian,South Indian,Manjula's Kitchen
+223,Snack,Roasted Sweet Potato Wedges,266,6,54,2,Vegan,Hyderabadi,Manjula's Kitchen
+224,Lunch,Chana Masala,259,10,45,2,Vegetarian,Marathi,Manjula's Kitchen
+225,Snack,Tomato Soup,311,9,50,6,Vegan,Marathi,Manjula's Kitchen
+226,Snack,Vegetable Cutlet (Baked),281,12,49,7,Vegetarian,Hyderabadi,Manjula's Kitchen
+227,Snack,Dhokla,213,6,42,1,Vegetarian,Kashmiri,Manjula's Kitchen
+228,Dinner,Paneer Tikka Masala,343,11,33,16,Vegetarian,Kashmiri,Sanjeev Kapoor
+229,Snack,Fruit Smoothie (Almond Milk),275,4,59,2,Vegetarian,South Indian,Allrecipes
+230,Snack,Vegetable Salad,359,12,61,15,Vegetarian,Marathi,Manjula's Kitchen
+231,Dinner,Pav Bhaji,340,11,46,19,Vegetarian,Maharashtrian,Manjula's Kitchen
+232,Snack,Cucumber Sticks with Hummus,203,3,30,9,Vegan,Hyderabadi,Allrecipes
+233,Snack,Tangy Tomato Soup,335,12,57,6,Vegan,Kashmiri,Manjula's Kitchen
+234,Snack,Cucumber Sticks with Hummus,210,10,28,7,Vegan,Hyderabadi,Manjula's Kitchen
+235,Dinner,Matar Paneer,264,19,9,9,Vegetarian,Punjabi,Sanjeev Kapoor
+236,Snack,Masala Corn,273,11,43,7,Vegetarian,Marathi,Manjula's Kitchen
+237,Snack,Masala Corn,336,10,57,3,Vegetarian,Marathi,Manjula's Kitchen
+238,Snack,Roasted Makhana (Foxnuts),211,7,33,7,Vegan,Marathi,Manjula's Kitchen
+239,Snack,Sprouts Chaat,298,13,37,11,Vegan,Punjabi,Manjula's Kitchen
+240,Dinner,Chana Dal (Split Chickpeas Curry),339,12,68,7,Vegetarian,Marathi,Allrecipes
+241,Dinner,Grilled Fish (Masala),318,33,14,15,Non-Vegetarian,Kashmiri,Allrecipes
+242,Lunch,Vegetable Pulao,310,8,57,5,Vegetarian,Marathi,Manjula's Kitchen
+243,Snack,Masala Corn,288,4,65,1,Vegetarian,Punjabi,Manjula's Kitchen
+244,Lunch,Corn Curry,363,10,64,8,Vegetarian,Marathi,Allrecipes
+245,Dinner,Dal Fry,179,13,14,5,Vegetarian,Marathi,Allrecipes
+246,Snack,Mixed Nuts & Seeds,315,4,55,19,Vegan,South Indian,Manjula's Kitchen
+247,Lunch,Vegetable Biryani,254,11,42,9,Vegetarian,West Indian,Manjula's Kitchen
+248,Snack,Avocado Smoothie,297,5,54,1,Vegetarian,Maharashtrian,Allrecipes
+249,Lunch,Paneer Butter Masala,182,6,8,8,Vegetarian,Marathi,Allrecipes
+250,Dinner,Chana Masala,309,10,51,5,Vegetarian,Kerala,Manjula's Kitchen
+251,Snack,Whole Wheat Pancake,274,6,50,4,Vegetarian,Punjabi,Manjula's Kitchen
+252,Snack,Vegetable Soup,194,8,42,2,Vegetarian,Marathi,Manjula's Kitchen
+253,Snack,Masala Corn,197,7,52,3,Vegetarian,Punjabi,Manjula's Kitchen
+254,Snack,Masala Corn,318,16,36,16,Vegetarian,Marathi,Manjula's Kitchen
+255,Snack,Vegetable Soup,221,8,30,6,Vegetarian,West Indian,Allrecipes
+256,Snack,Egg Salad Sandwich (Whole Grain),371,30,29,15,Non-Vegetarian,North Indian,Neha Mathur
+257,Snack,Minced Chicken Lettuce Wraps,317,18,23,17,Non-Vegetarian,Rajasthani,Deepika's Kitchen
+258,Lunch,Dal Palak,160,15,16,4,Vegetarian,Maharashtrian,Neha Mathur
+259,Dinner,Dal Tadka,199,15,19,7,Vegetarian,Maharashtrian,FitmitChef
+260,Lunch,Prawn Curry (Coconut),244,12,13,16,Non-Vegetarian,Maharashtrian,Veg Recipes of India
+261,Dinner,Coconut Fish Curry,242,10,10,18,Non-Vegetarian,North Indian,Neha Mathur
+262,Dinner,Masala Omelette Wrap,255,12,9,19,Non-Vegetarian,Tamil Nadu,Manjula's Kitchen
+263,Dinner,Karela Sabzi (Bitter Gourd),198,20,16,6,Vegetarian,Gujarati,Cookpad
+264,Breakfast,Sweet Potato Pancake,217,18,25,5,Vegetarian,Bengali,Deepika's Kitchen
+265,Lunch,Cabbage Curry,189,16,11,9,Vegetarian,Bengali,Sanjeev Kapoor
+266,Snack,Oatmeal Cookies (Low Sugar),254,17,24,10,Vegetarian,Hyderabadi,Chef Sanjay Thumma
+267,Dinner,Tinda Masala,279,20,25,11,Vegetarian,Gujarati,BBC Good Food
+268,Lunch,Karela Sabzi (Bitter Gourd),233,17,21,9,Vegetarian,Kashmiri,Hebbars Kitchen
+269,Breakfast,Rava Dosa,201,5,34,5,Vegetarian,South Indian,FitmitChef
+270,Lunch,Chicken Shashlik,269,22,25,9,Non-Vegetarian,Tamil Nadu,BBC Good Food
+271,Snack,Papaya Salad (Indian style),233,6,33,10,Vegan,Maharashtrian,Manjula's Kitchen
+272,Snack,Masala Corn,302,9,58,2,Vegetarian,Kashmiri,Manjula's Kitchen
+273,Snack,Coconut Water,183,0,46,0,Vegan,Kashmiri,Manjula's Kitchen
+274,Snack,Lemon Coriander Soup,333,7,53,11,Vegetarian,Kashmiri,Manjula's Kitchen
+275,Dinner,Chana Masala,323,12,29,9,Vegetarian,Hyderabadi,HealthifyMe
+276,Dinner,Chana Masala,273,14,28,4,Vegetarian,West Indian,Manjula's Kitchen
+277,Snack,Vegetable Soup,247,11,37,3,Vegetarian,Marathi,Manjula's Kitchen
+278,Snack,Roasted Makhana (Foxnuts),297,6,52,12,Vegan,West Indian,Manjula's Kitchen
+279,Dinner,Chana Masala,273,15,29,3,Vegetarian,Hyderabadi,HealthifyMe
+280,Snack,Cucumber Slices with Hummus,337,14,27,12,Vegan,Punjabi,Manjula's Kitchen
+281,Snack,Roasted Chickpeas,331,11,52,12,Vegan,Kashmiri,Manjula's Kitchen
+282,Snack,Cucumber Sticks with Hummus,328,19,26,13,Vegan,West Indian,Manjula's Kitchen
+283,Snack,Oatmeal Cookies (Low Sugar),320,17,43,8,Vegetarian,Kashmiri,Manjula's Kitchen
+284,Snack,Oatmeal Cookies (Low Sugar),227,11,12,11,Vegetarian,Hyderabadi,Manjula's Kitchen
+285,Snack,Rava Dosa,254,8,57,5,Vegetarian,South Indian,Manjula's Kitchen
+286,Snack,Masala Omelette,189,10,5,14,Vegetarian,Punjabi,Manjula's Kitchen
+287,Snack,Cucumber Sticks with Hummus,170,4,29,4,Vegan,South Indian,Manjula's Kitchen
+288,Snack,Vegetable Salad,221,9,53,3,Vegetarian,West Indian,Sanjeev Kapoor
+289,Snack,Chana Dal (Split Chickpeas Curry),331,15,58,9,Vegetarian,Marathi,Manjula's Kitchen
+290,Snack,Carrot Halwa (Light),276,3,55,5,Vegetarian,Punjabi,Manjula's Kitchen
+291,Snack,Cucumber Sticks with Hummus,221,9,32,6,Vegan,Marathi,Manjula's Kitchen
+292,Snack,Papaya Salad (Indian style),291,1,71,2,Vegan,North Indian,Manjula's Kitchen
+293,Snack,Masala Corn,289,7,60,4,Vegetarian,Marathi,Manjula's Kitchen
+294,Snack,Cucumber Sticks with Hummus,337,14,33,10,Vegan,Punjabi,Manjula's Kitchen
+295,Snack,Masala Corn,320,12,51,7,Vegetarian,Maharashtrian,Manjula's Kitchen
+296,Snack,Oatmeal Cookies (Low Sugar),330,15,50,9,Vegetarian,Punjabi,Manjula's Kitchen
+297,Snack,Fruit Salad with Mint,272,3,60,2,Vegan,North Indian,Manjula's Kitchen
+298,Snack,Masala Omelette,234,11,7,11,Vegetarian,Marathi,Manjula's Kitchen
+299,Snack,Roasted Chickpeas,199,12,37,3,Vegan,Bengali,Manjula's Kitchen
+300,Snack,Oatmeal Cookies (Low Sugar),236,12,48,6,Vegetarian,Punjabi,Manjula's Kitchen
+301,Snack,Vegetable Salad,236,4,30,3,Vegetarian,Marathi,Manjula's Kitchen
+302,Snack,Roasted Makhana (Foxnuts),317,12,41,6,Vegan,Punjabi,Manjula's Kitchen
+303,Snack,Idli (Steamed Rice Cakes),192,7,37,6,Vegetarian,Marathi,Manjula's Kitchen
+304,Snack,Vegetable Soup,337,14,52,9,Vegetarian,Kashmiri,Manjula's Kitchen
+305,Snack,Paneer Paratha,203,7,25,9,Vegetarian,Punjabi,Manjula's Kitchen
+306,Snack,Oatmeal Cookies (Low Sugar),343,13,53,6,Vegetarian,Kashmiri,Manjula's Kitchen
+307,Snack,Vegetable Soup,183,11,19,5,Vegetarian,Marathi,Manjula's Kitchen
+308,Snack,Vegetable Soup,227,8,39,3,Vegetarian,Kashmiri,Manjula's Kitchen
+309,Snack,Masala Omelette,259,10,11,16,Vegetarian,Hyderabadi,Manjula's Kitchen
+310,Snack,Cucumber Sticks with Hummus,269,14,25,9,Vegan,Punjabi,Manjula's Kitchen
+311,Snack,Oatmeal Cookies (Low Sugar),265,7,54,4,Vegetarian,Kashmiri,Manjula's Kitchen
+312,Snack,Besan Chilla (Gram Pancake),220,7,33,6,Vegetarian,Punjabi,Manjula's Kitchen
+313,Snack,Vegetable Soup,304,16,33,13,Vegetarian,Kashmiri,Manjula's Kitchen
+314,Snack,Mixed Nuts & Seeds,338,8,36,25,Vegan,Punjabi,Manjula's Kitchen
+315,Snack,Masala Omelette,289,14,4,21,Vegetarian,Andhra,Manjula's Kitchen
+316,Snack,Oatmeal Cookies (Low Sugar),328,15,52,8,Vegetarian,Maharashtrian,Manjula's Kitchen
+317,Snack,Idli (Steamed Rice Cakes),198,8,27,7,Vegetarian,Marathi,Manjula's Kitchen
+318,Snack,Oatmeal Cookies (Low Sugar),269,14,42,5,Vegetarian,Marathi,Manjula's Kitchen
+319,Snack,Sprouts Chaat,306,12,58,8,Vegetarian,West Indian,Manjula's Kitchen
+320,Snack,Masala Corn,298,13,53,4,Vegetarian,Maharashtrian,Manjula's Kitchen
+321,Snack,Mixed Nuts & Seeds,238,5,12,25,Vegan,North Indian,Manjula's Kitchen
+322,Snack,Oatmeal Cookies (Low Sugar),246,12,27,15,Vegetarian,Rajasthani,Manjula's Kitchen
+323,Snack,Masala Omelette,220,14,8,12,Vegetarian,Hyderabadi,Manjula's Kitchen
+324,Snack,Mixed Nuts & Seeds,304,9,36,18,Vegan,Andhra,Manjula's Kitchen
+325,Snack,Oatmeal Cookies (Low Sugar),349,16,50,11,Vegetarian,Kashmiri,Manjula's Kitchen
+326,Snack,Masala Corn,276,14,47,7,Vegetarian,Kashmiri,Manjula's Kitchen
+327,Snack,Masala Corn,227,6,38,9,Vegetarian,Marathi,Manjula's Kitchen
+328,Snack,Oatmeal Cookies (Low Sugar),247,14,35,10,Vegetarian,West Indian,Manjula's Kitchen
+329,Snack,Vegetable Soup,283,11,50,15,Vegetarian,Kashmiri,Manjula's Kitchen
+330,Snack,Avocado Smoothie,227,10,7,13,Vegetarian,Marathi,Manjula's Kitchen
+331,Snack,Oatmeal Cookies (Low Sugar),267,5,49,1,Vegetarian,Marathi,Manjula's Kitchen
+332,Snack,Roasted Chickpeas,332,10,61,12,Vegan,Punjabi,Manjula's Kitchen
+333,Snack,Masala Omelette,326,14,17,14,Vegetarian,West Indian,Manjula's Kitchen
+334,Snack,Roasted Makhana (Foxnuts),185,15,51,14,Vegan,Punjabi,Manjula's Kitchen
+335,Snack,Masala Omelette,212,8,5,19,Vegetarian,Kashmiri,Manjula's Kitchen
+336,Snack,Cucumber Sticks with Hummus,332,9,26,20,Vegan,Marathi,Manjula's Kitchen
+337,Snack,Oatmeal Cookies (Low Sugar),281,12,54,8,Vegetarian,Marathi,Manjula's Kitchen
+338,Snack,Masala Omelette,201,13,9,13,Vegetarian,West Indian,Manjula's Kitchen
+339,Snack,Vegetable Soup,188,5,33,1,Vegetarian,South Indian,Manjula's Kitchen
+340,Snack,Oatmeal Cookies (Low Sugar),177,5,37,7,Vegetarian,Marathi,Manjula's Kitchen
+341,Snack,Oatmeal Cookies (Low Sugar),334,14,52,12,Vegetarian,Kashmiri,Manjula's Kitchen
+342,Snack,Oatmeal Cookies (Low Sugar),191,10,30,2,Vegetarian,West Indian,Manjula's Kitchen
+343,Snack,Masala Corn,300,12,49,11,Vegetarian,West Indian,Manjula's Kitchen
+344,Snack,Sprouts Chaat,194,11,25,4,Vegetarian,Hyderabadi,Manjula's Kitchen
+345,Snack,Oatmeal Cookies (Low Sugar),229,12,46,5,Vegetarian,Andhra,Manjula's Kitchen
+346,Snack,Masala Corn,307,12,49,11,Vegetarian,Marathi,Manjula's Kitchen
+347,Snack,Roasted Chickpeas,356,11,56,13,Vegan,West Indian,Manjula's Kitchen
+348,Snack,Masala Corn,198,5,54,2,Vegetarian,Marathi,Manjula's Kitchen
+349,Snack,Oatmeal Cookies (Low Sugar),318,13,51,9,Vegetarian,West Indian,Manjula's Kitchen
+350,Snack,Cucumber Sticks with Hummus,205,5,20,5,Vegan,West Indian,Manjula's Kitchen
+351,Snack,Oatmeal Cookies (Low Sugar),276,14,45,12,Vegetarian,South Indian,Manjula's Kitchen
+352,Snack,Masala Corn,315,9,56,14,Vegetarian,West Indian,Manjula's Kitchen
+353,Snack,Roasted Makhana (Foxnuts),185,15,51,14,Vegan,Punjabi,Manjula's Kitchen
+354,Snack,Oatmeal Cookies (Low Sugar),230,11,47,6,Vegetarian,Punjabi,Manjula's Kitchen
+355,Snack,Vegetable Soup,338,15,51,12,Vegetarian,Hyderabadi,Manjula's Kitchen
+356,Snack,Cucumber Sticks with Hummus,301,9,28,23,Vegan,West Indian,Manjula's Kitchen
+357,Snack,Masala Corn,348,9,53,14,Vegetarian,Punjabi,Manjula's Kitchen
+358,Snack,Masala Corn,211,5,44,9,Vegetarian,West Indian,Manjula's Kitchen
+359,Snack,Masala Omelette,302,18,41,9,Vegetarian,Punjabi,Manjula's Kitchen
+360,Snack,Oatmeal Cookies (Low Sugar),256,7,20,11,Vegetarian,Punjabi,Manjula's Kitchen
+361,Snack,Oatmeal Cookies (Low Sugar),289,14,49,9,Vegetarian,West Indian,Manjula's Kitchen
+362,Snack,Masala Corn,266,9,40,5,Vegetarian,West Indian,Manjula's Kitchen
+363,Snack,Oatmeal Cookies (Low Sugar),217,4,36,1,Vegetarian,West Indian,Manjula's Kitchen
+364,Snack,Masala Corn,285,11,52,4,Vegetarian,Kashmiri,Manjula's Kitchen
+365,Snack,Masala Corn,211,9,44,3,Vegetarian,Marathi,Manjula's Kitchen
+366,Snack,Vegetable Soup,207,9,43,3,Vegetarian,West Indian,Manjula's Kitchen
+367,Snack,Vegetable Salad,217,5,39,3,Vegetarian,West Indian,Manjula's Kitchen
+368,Snack,Masala Corn,240,12,28,8,Vegetarian,Kashmiri,Manjula's Kitchen
+369,Snack,Mixed Nuts & Seeds,257,6,15,20,Vegan,West Indian,Manjula's Kitchen
+370,Snack,Oatmeal Cookies (Low Sugar),307,13,59,8,Vegetarian,South Indian,Manjula's Kitchen
+371,Snack,Masala Corn,294,7,55,5,Vegetarian,Andhra,Manjula's Kitchen
+372,Snack,Cucumber Slices with Hummus,220,9,35,8,Vegan,Kashmiri,Manjula's Kitchen
+373,Snack,Masala Omelette,276,9,8,18,Vegetarian,Hyderabadi,Manjula's Kitchen
+374,Snack,Oatmeal Cookies (Low Sugar),283,14,45,8,Vegetarian,Marathi,Manjula's Kitchen
+375,Snack,Masala Corn,249,10,47,6,Vegetarian,West Indian,Manjula's Kitchen
+376,Snack,Oatmeal Cookies (Low Sugar),257,9,47,6,Vegetarian,West Indian,Manjula's Kitchen
+377,Snack,Masala Corn,223,10,39,5,Vegetarian,Hyderabadi,Manjula's Kitchen
+378,Snack,Masala Corn,308,9,49,7,Vegetarian,Andhra,Manjula's Kitchen
+379,Snack,Masala Corn,298,12,46,6,Vegetarian,Kashmiri,Manjula's Kitchen
+380,Snack,Masala Corn,296,12,47,5,Vegetarian,Kashmiri,Manjula's Kitchen
+381,Snack,Oatmeal Cookies (Low Sugar),192,9,24,1,Vegetarian,Hyderabadi,Manjula's Kitchen
+382,Snack,Masala Corn,226,11,47,6,Vegetarian,Kashmiri,Manjula's Kitchen
+383,Snack,Masala Corn,309,12,52,7,Vegetarian,Hyderabadi,Manjula's Kitchen
+384,Snack,Masala Corn,283,6,49,5,Vegetarian,Hyderabadi,Manjula's Kitchen
+385,Snack,Oatmeal Cookies (Low Sugar),247,9,41,3,Vegetarian,South Indian,Manjula's Kitchen
+386,Snack,Masala Corn,281,11,51,5,Vegetarian,Marathi,Manjula's Kitchen
+387,Snack,Masala Corn,228,8,40,4,Vegetarian,Marathi,Manjula's Kitchen
+388,Snack,Masala Corn,215,9,45,4,Vegetarian,Punjabi,Manjula's Kitchen
+389,Snack,Oatmeal Cookies (Low Sugar),303,15,48,7,Vegetarian,North Indian,Manjula's Kitchen
+390,Snack,Oatmeal Cookies (Low Sugar),244,12,42,4,Vegetarian,Marathi,Manjula's Kitchen
+391,Snack,Oatmeal Cookies (Low Sugar),229,14,33,10,Vegetarian,West Indian,Manjula's Kitchen
+392,Snack,Masala Corn,336,7,63,3,Vegetarian,West Indian,Manjula's Kitchen
+393,Snack,Masala Corn,232,5,47,6,Vegetarian,Hyderabadi,Manjula's Kitchen
+394,Snack,Oatmeal Cookies (Low Sugar),289,9,43,6,Vegetarian,North Indian,Manjula's Kitchen
+395,Snack,Oatmeal Cookies (Low Sugar),204,4,46,3,Vegetarian,Hyderabadi,Manjula's Kitchen
+396,Snack,Masala Corn,264,9,45,5,Vegetarian,Andhra,Manjula's Kitchen
+397,Snack,Masala Corn,180,7,36,3,Vegetarian,Hyderabadi,Manjula's Kitchen
+398,Snack,Masala Corn,312,9,49,10,Vegetarian,Hyderabadi,Manjula's Kitchen
+399,Snack,Masala Corn,232,8,46,5,Vegetarian,Marathi,Manjula's Kitchen
+400,Snack,Masala Corn,229,8,44,5,Vegetarian,Kashmiri,Manjula's Kitchen
+401,Snack,Oatmeal Cookies (Low Sugar),288,15,49,5,Vegetarian,West Indian,Manjula's Kitchen
+402,Snack,Oatmeal Cookies (Low Sugar),312,11,59,2,Vegetarian,Marathi,Manjula's Kitchen
+403,Snack,Masala Corn,333,7,53,5,Vegetarian,Kashmiri,Manjula's Kitchen
+404,Snack,Masala Corn,335,9,52,9,Vegetarian,Kashmiri,Manjula's Kitchen
+405,Snack,Masala Corn,261,10,50,5,Vegetarian,Marathi,Manjula's Kitchen
+406,Snack,Oatmeal Cookies (Low Sugar),301,16,58,5,Vegetarian,Punjabi,Manjula's Kitchen
+407,Snack,Oatmeal Cookies (Low Sugar),252,6,49,3,Vegetarian,Kashmiri,Manjula's Kitchen
+408,Snack,Oatmeal Cookies (Low Sugar),183,8,34,2,Vegetarian,Kashmiri,Manjula's Kitchen
+409,Snack,Masala Corn,255,12,49,4,Vegetarian,Kashmiri,Manjula's Kitchen
+410,Snack,Masala Corn,306,13,52,5,Vegetarian,Kashmiri,Manjula's Kitchen
+411,Snack,Oatmeal Cookies (Low Sugar),209,11,48,5,Vegetarian,West Indian,Manjula's Kitchen
+412,Snack,Oatmeal Cookies (Low Sugar),336,15,60,7,Vegetarian,Maharashtrian,Manjula's Kitchen
+413,Snack,Oatmeal Cookies (Low Sugar),241,5,36,4,Vegetarian,Punjabi,Manjula's Kitchen
+414,Snack,Masala Corn,319,12,57,9,Vegetarian,Kashmiri,Manjula's Kitchen
+415,Snack,Masala Corn,322,14,61,4,Vegetarian,Hyderabadi,Manjula's Kitchen
+416,Snack,Masala Corn,329,14,56,7,Vegetarian,Kashmiri,Manjula's Kitchen
+417,Snack,Oatmeal Cookies (Low Sugar),228,7,40,7,Vegetarian,South Indian,Manjula's Kitchen
+418,Snack,Oatmeal Cookies (Low Sugar),296,13,54,7,Vegetarian,North Indian,Manjula's Kitchen
+419,Snack,Masala Corn,259,4,43,9,Vegetarian,Marathi,Manjula's Kitchen
+420,Snack,Masala Corn,268,11,49,9,Vegetarian,Marathi,Manjula's Kitchen
+421,Snack,Vegetable Soup,251,14,37,6,Vegetarian,Hyderabadi,Manjula's Kitchen
+422,Snack,Oatmeal Cookies (Low Sugar),246,6,52,1,Vegetarian,Punjabi,Manjula's Kitchen
+423,Snack,Oatmeal Cookies (Low Sugar),298,6,42,13,Vegetarian,Punjabi,Manjula's Kitchen
+424,Snack,Masala Corn,227,12,46,7,Vegetarian,South Indian,Manjula's Kitchen
+425,Snack,Masala Corn,183,7,36,5,Vegetarian,West Indian,Manjula's Kitchen
+426,Snack,Oatmeal Cookies (Low Sugar),302,12,47,7,Vegetarian,Kashmiri,Manjula's Kitchen
+427,Snack,Oatmeal Cookies (Low Sugar),317,13,53,8,Vegetarian,Kashmiri,Manjula's Kitchen
+428,Snack,Oatmeal Cookies (Low Sugar),317,12,56,6,Vegetarian,South Indian,Manjula's Kitchen
+429,Snack,Oatmeal Cookies (Low Sugar),229,13,44,8,Vegetarian,Kashmiri,Manjula's Kitchen
+430,Snack,Masala Corn,258,12,47,7,Vegetarian,Marathi,Manjula's Kitchen
+431,Snack,Oatmeal Cookies (Low Sugar),182,13,26,2,Vegetarian,Kashmiri,Manjula's Kitchen
+432,Snack,Oatmeal Cookies (Low Sugar),304,15,52,8,Vegetarian,South Indian,Manjula's Kitchen
+433,Snack,Oatmeal Cookies (Low Sugar),250,12,52,5,Vegetarian,South Indian,Manjula's Kitchen
+434,Snack,Masala Corn,256,12,54,7,Vegetarian,South Indian,Manjula's Kitchen
+435,Snack,Masala Corn,240,15,46,5,Vegetarian,North Indian,Manjula's Kitchen
+436,Snack,Masala Corn,321,12,59,6,Vegetarian,Kashmiri,Manjula's Kitchen
+437,Snack,Oatmeal Cookies (Low Sugar),325,14,52,8,Vegetarian,Kashmiri,Manjula's Kitchen
+438,Snack,Oatmeal Cookies (Low Sugar),326,13,62,5,Vegetarian,Punjabi,Manjula's Kitchen
+439,Snack,Masala Corn,286,11,54,4,Vegetarian,Punjabi,Manjula's Kitchen
+440,Snack,Oatmeal Cookies (Low Sugar),286,8,34,8,Vegetarian,Hyderabadi,Manjula's Kitchen
+441,Snack,Oatmeal Cookies (Low Sugar),259,12,47,6,Vegetarian,Hyderabadi,Manjula's Kitchen
+442,Snack,Oatmeal Cookies (Low Sugar),257,12,40,8,Vegetarian,West Indian,Manjula's Kitchen
+443,Snack,Oatmeal Cookies (Low Sugar),320,15,57,8,Vegetarian,Punjabi,Manjula's Kitchen
+444,Snack,Masala Corn,317,12,54,7,Vegetarian,Marathi,Manjula's Kitchen
+445,Snack,Masala Corn,271,11,38,6,Vegetarian,Hyderabadi,Manjula's Kitchen
+446,Snack,Vegetable Soup,351,17,62,11,Vegetarian,Hyderabadi,Manjula's Kitchen
+447,Snack,Vegetable Soup,342,11,64,10,Vegetarian,Marathi,Manjula's Kitchen
+448,Snack,Masala Corn,253,11,44,7,Vegetarian,Kashmiri,Manjula's Kitchen
+449,Snack,Masala Corn,303,14,57,6,Vegetarian,Kashmiri,Manjula's Kitchen
+450,Snack,Oatmeal Cookies (Low Sugar),328,10,51,9,Vegetarian,Punjabi,Manjula's Kitchen
+451,Snack,Oatmeal Cookies (Low Sugar),296,11,48,5,Vegetarian,West Indian,Manjula's Kitchen
+452,Snack,Masala Corn,268,10,45,6,Vegetarian,Maharashtrian,Manjula's Kitchen
+453,Snack,Roasted Makhana (Foxnuts),251,13,50,11,Vegan,Punjabi,Manjula's Kitchen
+454,Snack,Masala Corn,307,10,52,6,Vegetarian,South Indian,Manjula's Kitchen
+455,Snack,Masala Corn,268,10,45,9,Vegetarian,Maharashtrian,Manjula's Kitchen
+456,Snack,Oatmeal Cookies (Low Sugar),324,12,56,9,Vegetarian,Kashmiri,Manjula's Kitchen
+457,Snack,Masala Corn,263,14,42,6,Vegetarian,Maharashtrian,Manjula's Kitchen
+458,Snack,Oatmeal Cookies (Low Sugar),315,15,58,9,Vegetarian,Punjabi,Manjula's Kitchen
+459,Snack,Oatmeal Cookies (Low Sugar),300,12,58,4,Vegetarian,Kashmiri,Manjula's Kitchen
+460,Snack,Oatmeal Cookies (Low Sugar),241,13,50,5,Vegetarian,Punjabi,Manjula's Kitchen
+461,Snack,Masala Corn,352,13,59,8,Vegetarian,Punjabi,Manjula's Kitchen
+462,Snack,Masala Corn,288,14,56,7,Vegetarian,Hyderabadi,Manjula's Kitchen
+463,Snack,Oatmeal Cookies (Low Sugar),251,8,36,4,Vegetarian,Marathi,Manjula's Kitchen
+464,Snack,Masala Corn,297,9,55,6,Vegetarian,Marathi,Manjula's Kitchen
+465,Snack,Oatmeal Cookies (Low Sugar),267,10,54,3,Vegetarian,Punjabi,Manjula's Kitchen
+466,Snack,Masala Corn,327,8,64,7,Vegetarian,Hyderabadi,Manjula's Kitchen
+467,Snack,Oatmeal Cookies (Low Sugar),230,10,46,6,Vegetarian,Kashmiri,Manjula's Kitchen
+468,Snack,Oatmeal Cookies (Low Sugar),232,11,47,3,Vegetarian,Punjabi,Manjula's Kitchen
+469,Snack,Oatmeal Cookies (Low Sugar),298,15,53,7,Vegetarian,Kashmiri,Manjula's Kitchen
+470,Snack,Masala Corn,307,13,60,7,Vegetarian,Hyderabadi,Manjula's Kitchen
+471,Snack,Masala Corn,202,8,48,3,Vegetarian,Punjabi,Manjula's Kitchen
+472,Snack,Masala Corn,299,12,56,5,Vegetarian,Andhra,Manjula's Kitchen
+473,Snack,Masala Corn,290,13,55,6,Vegetarian,Kashmiri,Manjula's Kitchen
+474,Snack,Masala Corn,316,14,57,9,Vegetarian,Kashmiri,Manjula's Kitchen
+475,Snack,Oatmeal Cookies (Low Sugar),306,13,61,5,Vegetarian,Punjabi,Manjula's Kitchen
+476,Snack,Oatmeal Cookies (Low Sugar),315,12,57,8,Vegetarian,West Indian,Manjula's Kitchen
+477,Snack,Masala Corn,273,7,49,5,Vegetarian,Punjabi,Manjula's Kitchen
+478,Snack,Masala Corn,278,11,52,6,Vegetarian,Andhra,Manjula's Kitchen
+479,Snack,Masala Corn,298,11,54,7,Vegetarian,West Indian,Manjula's Kitchen
+480,Snack,Oatmeal Cookies (Low Sugar),319,15,54,9,Vegetarian,West Indian,Manjula's Kitchen
+481,Snack,Masala Corn,333,10,59,6,Vegetarian,Andhra,Manjula's Kitchen
+482,Snack,Oatmeal Cookies (Low Sugar),227,14,45,4,Vegetarian,Andhra,Manjula's Kitchen
+483,Snack,Masala Corn,308,13,58,8,Vegetarian,Kashmiri,Manjula's Kitchen
+484,Snack,Oatmeal Cookies (Low Sugar),243,5,40,5,Vegetarian,Kashmiri,Manjula's Kitchen
+485,Snack,Masala Corn,269,10,58,5,Vegetarian,Punjabi,Manjula's Kitchen
+486,Snack,Masala Corn,300,10,59,7,Vegetarian,Marathi,Manjula's Kitchen
+487,Snack,Masala Corn,212,7,41,7,Vegetarian,Marathi,Manjula's Kitchen
+488,Snack,Oatmeal Cookies (Low Sugar),314,13,59,6,Vegetarian,Punjabi,Manjula's Kitchen
+489,Snack,Vegetable Soup,214,11,40,3,Vegetarian,Kashmiri,Manjula's Kitchen
+490,Snack,Masala Corn,344,11,58,8,Vegetarian,Kashmiri,Manjula's Kitchen
+491,Snack,Oatmeal Cookies (Low Sugar),327,15,60,10,Vegetarian,West Indian,Manjula's Kitchen
+492,Snack,Masala Corn,338,12,58,5,Vegetarian,Andhra,Manjula's Kitchen
+493,Snack,Oatmeal Cookies (Low Sugar),266,7,46,3,Vegetarian,Andhra,Manjula's Kitchen
+494,Snack,Vegetable Soup,220,7,46,5,Vegetarian,Marathi,Manjula's Kitchen
+495,Snack,Oatmeal Cookies (Low Sugar),305,9,52,8,Vegetarian,Punjabi,Manjula's Kitchen
+496,Snack,Masala Corn,241,9,55,3,Vegetarian,Marathi,Manjula's Kitchen
+497,Snack,Masala Corn,329,12,61,9,Vegetarian,Kashmiri,Manjula's Kitchen
+498,Snack,Oatmeal Cookies (Low Sugar),349,13,62,11,Vegetarian,Punjabi,Manjula's Kitchen
+499,Snack,Masala Corn,301,15,60,8,Vegetarian,Punjabi,Manjula's Kitchen
+500,Snack,Masala Corn,243,5,47,2,Vegetarian,Punjabi,Manjula's Kitchen
